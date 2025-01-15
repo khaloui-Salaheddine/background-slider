@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-An image slider that changes images in the same way as background images built with Html, Css and Vanilla Js.
+An image slider that changes images in the same way as background images built with Html, Css and Js.
 
 The project goal:
 - set up it in HTML, style it with CSS and add the functionality with JavaScript
